@@ -1,6 +1,6 @@
 {
   "name": "get-3",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Performance-focused retrieval of the number 3.",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,10 @@
     "email": "pdcmoreira@gmail.com"
   },
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pdcmoreira/get-3"
+  },
   "devDependencies": {
     "jest": "^27.5.1"
   }
