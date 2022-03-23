@@ -1,0 +1,17 @@
+{
+  "name": "get-3",
+  "version": "1.0.0",
+  "description": "Performance-focused retrieval of the number 3.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": {
+    "name": "Pedro Moreira",
+    "email": "pdcmoreira@gmail.com"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
